@@ -1,0 +1,22 @@
+# KeyLedger Templates
+
+> Free landlord and real estate investor guides plus spreadsheet templates for Excel and Google Sheets.
+
+Shop: https://www.etsy.com/shop/KeyLedgerTemplates
+
+## Guides
+
+- [How to Track Rental Income and Expenses for Schedule E (A Simple System for Small Landlords)](https://golf4life27.github.io/track-rental-income-expenses-schedule-e/): A simple, year-round system for tracking rental income and expenses by Schedule E line, so tax time takes an hour instead of a weekend. Includes the full category list.
+- [How to Calculate Rental Property Cash Flow (With a Worked Example)](https://golf4life27.github.io/rental-property-cash-flow-calculation/): Step-by-step rental property cash flow calculation with a real worked example: vacancy, management, repairs, CapEx, taxes, insurance and the mortgage. Plus cap rate and cash-on-cash.
+- [BRRRR Calculator Walkthrough: How Much Cash Do You Really Get Back at Refinance?](https://golf4life27.github.io/brrrr-calculator-walkthrough/): A line-by-line BRRRR example: purchase, hard money, rehab, holding costs, cash-out refinance, cash left in the deal, post-refi cash flow and the max price for a full cash-out.
+- [The 70% Rule and MAO: How to Calculate a Max Offer on a Fix and Flip](https://golf4life27.github.io/70-percent-rule-mao-fix-and-flip/): How the 70% rule works, how to calculate maximum allowable offer (MAO) from ARV and repairs, and why a full-cost flip budget plus a stress test beats the rule of thumb.
+- [How Much Should Landlords Save for Repairs and CapEx? A Simple Reserve Formula](https://golf4life27.github.io/capex-reserves-rental-property/): Percent-of-rent rules vs. an itemized CapEx reserve: how to calculate how much to set aside each month for roofs, HVAC, water heaters and more, with a worked example.
+
+## Free tools
+
+- [Free Rental Cash Flow Calculator](https://golf4life27.github.io/free-rental-cash-flow-calculator/): cash flow, cap rate, cash-on-cash, 1% rule
+
+## Optional
+
+- [Sitemap](https://golf4life27.github.io/sitemap.xml)
+- [RSS feed](https://golf4life27.github.io/feed.xml)

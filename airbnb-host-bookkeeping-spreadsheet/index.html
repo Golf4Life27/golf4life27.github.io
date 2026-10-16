@@ -1,0 +1,165 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Airbnb Host Bookkeeping: How to Track Income, Expenses, Occupancy and Payouts in One Spreadsheet</title><meta name="description" content="A simple Airbnb host bookkeeping system: log every booking and expense, then see occupancy, ADR, RevPAR and net profit by month. Built for short-term rental hosts on Excel or Google Sheets."><link rel="canonical" href="https://golf4life27.github.io/airbnb-host-bookkeeping-spreadsheet/">
+<meta property="og:title" content="Airbnb Host Bookkeeping: How to Track Income, Expenses, Occupancy and Payouts in One Spreadsheet"><meta property="og:description" content="A simple Airbnb host bookkeeping system: log every booking and expense, then see occupancy, ADR, RevPAR and net profit by month. Built for short-term rental hosts on Excel or Google Sheets."><meta property="og:url" content="https://golf4life27.github.io/airbnb-host-bookkeeping-spreadsheet/"><meta property="og:image" content="https://golf4life27.github.io/pins/p01-a.png">
+<meta name="p:domain_verify" content="b59976ed1184040b9bb5a6c5e0fa6743"><style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;color:#222;background:#f8f6f1;line-height:1.65}
+header{background:#1F3A5F;color:#fff;padding:18px 20px}header a{color:#fff;text-decoration:none;font-weight:700}
+header img{height:40px;vertical-align:middle;border-radius:50%;margin-right:10px}main{max-width:760px;margin:0 auto;padding:24px 20px 60px;background:#fff}
+h1,h2,h3{color:#1F3A5F;line-height:1.25}a{color:#2A9D8F}table{border-collapse:collapse;width:100%;font-size:.95em;margin:1em 0}
+th,td{border:1px solid #c9d3e0;padding:6px 8px;text-align:left}th{background:#1F3A5F;color:#fff}blockquote{border-left:4px solid #2A9D8F;margin:1em 0;padding:.4em 1em;background:#eef7f5}
+pre{background:#eef2f7;padding:12px;overflow:auto}.cta{display:inline-block;background:#2A9D8F;color:#fff;padding:12px 22px;border-radius:30px;text-decoration:none;font-weight:700}
+.card{border:1px solid #e3e8ef;border-radius:12px;padding:16px;margin:14px 0}img.hero{width:100%;max-width:420px;display:block;margin:0 auto 1em}footer{text-align:center;font-size:.85em;color:#667;padding:20px}</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Airbnb Host Bookkeeping: How to Track Income, Expenses, Occupancy and Payouts in One Spreadsheet", "description": "A simple Airbnb host bookkeeping system: log every booking and expense, then see occupancy, ADR, RevPAR and net profit by month. Built for short-term rental hosts on Excel or Google Sheets.", "datePublished": "2026-10-16", "author": {"@type": "Organization", "name": "KeyLedger Templates"}, "image": "https://golf4life27.github.io/pins/p01-a.png"}</script></head>
+<body><header><a href="https://golf4life27.github.io/"><img src="https://golf4life27.github.io/logo.png" alt="">KeyLedger Templates</a></header><main><h1>Airbnb Host Bookkeeping: Track Income, Expenses and Occupancy in One Place</h1><img class="hero" src="https://golf4life27.github.io/pins/p01-a.png" alt="Airbnb Host Bookkeeping: How to Track Income, Expenses, Occupancy and Payouts in One Spreadsheet">
+<p>Long-term landlords usually have one rent payment a month. Short-term rental hosts have a dozen payouts, cleaning fees, platform fees and supply runs — and the numbers that matter (occupancy, ADR, RevPAR, net after cleaning) live in three different apps.</p>
+<p>If you host on Airbnb, Vrbo or both and still reconcile from CSV exports at tax time, this guide is the system that replaces the scramble. It works with any spreadsheet. We'll describe the layout KeyLedger uses in the <strong>Airbnb Host Spreadsheet</strong> so you can build it yourself or use a ready template.</p>
+<blockquote>
+<p>General record-keeping guidance for short-term rental hosts, not tax advice. Platform 1099-K rules, lodging tax and Schedule E vs. Schedule C treatment vary by location and how you use the property. Confirm with a qualified tax professional.</p>
+</blockquote>
+<h2>Why a dedicated Airbnb host spreadsheet beats a bank feed alone</h2>
+<p>Bank and Stripe/Airbnb payout feeds show cash in. They do not show:</p>
+<ul>
+<li><strong>Booked nights vs. available nights</strong> (occupancy)</li>
+<li><strong>ADR</strong> (average daily rate) and <strong>RevPAR</strong> (revenue per available night)</li>
+<li><strong>Cleaning fees collected vs. cleaning costs paid</strong></li>
+<li><strong>Platform service fees</strong> as a separate cost of booking</li>
+<li><strong>Which listing</strong> earned what when you have more than one</li>
+</ul>
+<p>Those are the numbers hosts use to raise rates, cut dead months and decide whether a co-host is worth the fee. A short-term rental tracker that starts from <em>bookings</em>, not bank rows, makes them automatic.</p>
+<h2>The five tabs that cover 95% of host bookkeeping</h2>
+<h3>1. Settings (listings + categories)</h3>
+<p>List every active listing once:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nickname</td>
+<td>Same spelling everywhere (dropdowns)</td>
+</tr>
+<tr>
+<td>Address / unit</td>
+<td>For your records and your preparer</td>
+</tr>
+<tr>
+<td>Bedrooms</td>
+<td>Optional; useful for ADR comparisons</td>
+</tr>
+<tr>
+<td>Primary channel</td>
+<td>Airbnb, Vrbo, Booking.com, Direct</td>
+</tr>
+<tr>
+<td>Active?</td>
+<td>Yes/No so offline listings don't inflate available nights</td>
+</tr>
+</tbody>
+</table>
+<p>Keep a fixed category list for income and expenses so January and December use the same words. Common short-term rental categories:</p>
+<p><strong>Income:</strong> Accommodation payout · Cleaning fees collected · Other guest fees · Resolution / adjustment credit</p>
+<p><strong>Expenses:</strong> Platform service fee · Cleaning &amp; turnover · Supplies &amp; toiletries · Laundry · Utilities · Internet · Insurance · Property taxes · Mortgage interest · HOA · Repairs · Co-host / management · Advertising · Software · Permits &amp; lodging tax paid · Capital improvement (tracked, not expensed)</p>
+<h3>2. Bookings (one row per reservation)</h3>
+<p>This is the heart of an <strong>Airbnb income and expense tracker</strong>. Columns that pull their weight:</p>
+<ul>
+<li>Confirmation #</li>
+<li>Listing (dropdown)</li>
+<li>Guest name</li>
+<li>Channel</li>
+<li>Check-in / check-out → <strong>nights = check-out − check-in</strong></li>
+<li>Guests</li>
+<li>Booking total</li>
+<li>Cleaning fee</li>
+<li>Platform fee</li>
+<li>Host payout</li>
+<li>Status (Confirmed / Checked out / Cancelled)</li>
+</ul>
+<p>Exclude cancelled stays from occupancy and revenue. If a guest cancelled after a partial payout, log the kept amount under Other guest fees or as a separate note — ask your CPA how your state treats it.</p>
+<h3>3. Expenses (one row per cost)</h3>
+<p>Same idea as a landlord expense log, but with STR categories. Tag every row to a listing so you can see whether Oak Cottage's cleaning bill is eating the payout while Lakeview still nets clean.</p>
+<h3>4. Monthly summary (filter by listing)</h3>
+<p>For each month, calculate:</p>
+<pre><code>Booked nights
+Available nights  = active listings × days in month
+Occupancy %       = booked ÷ available
+Gross booking $
+Cleaning fees $
+Platform fees $
+Host payout $
+Expenses $
+Net               = payout − expenses
+ADR $             = payout ÷ booked nights
+RevPAR $          = payout ÷ available nights
+</code></pre>
+<p>Filter to one listing when you want to know which unit is carrying the portfolio.</p>
+<h3>5. Dashboard (year at a glance)</h3>
+<p>Year-to-date gross booking, host payout, expenses, net, occupancy, ADR and RevPAR, plus a simple payout-vs-expenses chart. Ten minutes a week of logging keeps this current; tax season becomes an export, not an archaeology dig.</p>
+<h2>A worked mini-example</h2>
+<p>One listing, March:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Available nights</td>
+<td>31</td>
+</tr>
+<tr>
+<td>Booked nights</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Occupancy</td>
+<td>71%</td>
+</tr>
+<tr>
+<td>Host payout</td>
+<td>$3,080</td>
+</tr>
+<tr>
+<td>Cleaning + supplies + utilities</td>
+<td>$640</td>
+</tr>
+<tr>
+<td>Net</td>
+<td>$2,440</td>
+</tr>
+<tr>
+<td>ADR</td>
+<td>$140</td>
+</tr>
+<tr>
+<td>RevPAR</td>
+<td>$99</td>
+</tr>
+</tbody>
+</table>
+<p>If April payout is similar but booked nights drop to 14, ADR may look "better" while RevPAR and net fall. Hosts who only watch ADR miss that. Occupancy + RevPAR + net together tell the truth.</p>
+<h2>Tax and lodging-tax notes (high level)</h2>
+<ul>
+<li><strong>Platform 1099-K / annual summaries</strong> are starting points, not full books. Fees, refunds and off-platform direct bookings often need reconciling.</li>
+<li><strong>Lodging / occupancy tax</strong> remitted to a city or state is usually tracked as its own expense (or a liability), not mixed into "utilities."</li>
+<li><strong>Schedule E vs. Schedule C</strong> (and average-period-of-rental rules) depends on how you use the property. This system organizes numbers either way; your preparer chooses the form.</li>
+<li><strong>Capital improvements</strong> (new HVAC, full remodel) should stay off the regular expense total so they are not deducted as if they were towels and toilet paper.</li>
+</ul>
+<p>None of the above is advice for your return — it is the reason a clean vacation rental bookkeeping log saves preparer hours.</p>
+<h2>Checklist: set this up in one evening</h2>
+<ol>
+<li>☐ Create Settings with every listing marked Active = Yes</li>
+<li>☐ Paste or type the last 90 days of bookings (or start from today and go forward)</li>
+<li>☐ Log cleaning, supplies and utilities for the same period</li>
+<li>☐ Confirm cancelled stays are marked Cancelled</li>
+<li>☐ Open the monthly summary and sanity-check occupancy for last month</li>
+<li>☐ Save a dated copy before you change categories mid-year</li>
+</ol>
+<h2>Free next step vs. the full template</h2>
+<p>If you only need long-term rental screening math, KeyLedger's free <a href="/free-rental-cash-flow-calculator/">Rental Cash Flow Quick Calculator</a> is enough. If you are an active Airbnb or Vrbo host and want bookings, expenses, occupancy, ADR and RevPAR in one workbook, the <strong>Airbnb Host Spreadsheet</strong> (Excel &amp; Google Sheets) is built for that workflow.</p>
+<blockquote>
+<p>Ready-made template: <strong><a href="https://www.etsy.com/listing/4596691258">Airbnb Host Spreadsheet on Etsy</a></strong> (Excel &amp; Google Sheets). Shop: <a href="https://www.etsy.com/shop/KeyLedgerTemplates">KeyLedgerTemplates</a>.</p>
+</blockquote><div class="card"><strong>Free download:</strong> screen any rental in 60 seconds with our <a href="https://golf4life27.github.io/free-rental-cash-flow-calculator/">Rental Cash Flow Quick Calculator</a>. <br><br><a class="cta" href="https://www.etsy.com/shop/KeyLedgerTemplates">Browse all templates on Etsy</a></div></main>
+<footer>Spreadsheets for small landlords &amp; real estate investors · <a href="https://www.etsy.com/shop/KeyLedgerTemplates">Shop on Etsy</a><br>General information, not tax, legal or investment advice.</footer></body></html>

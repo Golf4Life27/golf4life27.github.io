@@ -1,6 +1,6 @@
 # KeyLedger Templates
 
-> Free landlord and real estate investor guides plus spreadsheet templates for Excel and Google Sheets.
+> Free landlord and real estate investor guides, a free online rental cash flow calculator, and paid spreadsheet templates for Excel and Google Sheets sold on Etsy.
 
 Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 
@@ -15,9 +15,24 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 
 ## Free tools
 
-- [Free Rental Cash Flow Calculator](https://golf4life27.github.io/free-rental-cash-flow-calculator/): cash flow, cap rate, cash-on-cash, 1% rule
+- [Free Rental Cash Flow Calculator](https://golf4life27.github.io/free-rental-cash-flow-calculator/): online calculator + free .xlsx; cash flow, NOI, cap rate, cash-on-cash, DSCR, 1% rule
+
+## Templates and prices
+
+- [Rental Income & Expense Tracker](https://www.etsy.com/listing/4591329500): $12.99 USD, instant download (Excel & Google Sheets). Schedule E categories · up to 10 properties
+- [Rent Roll & Tenant Ledger](https://www.etsy.com/listing/4591924449): $9.99 USD, instant download (Excel & Google Sheets). Who paid, who owes, which leases end soon
+- [Security Deposit Tracker](https://www.etsy.com/listing/4592563186): $7.99 USD, instant download (Excel & Google Sheets). Deadlines, deductions & itemized statement
+- [Rental Property Deal Analyzer](https://www.etsy.com/listing/4591321405): $12.99 USD, instant download (Excel & Google Sheets). Cash flow · cap rate · cash-on-cash · DSCR
+- [BRRRR Calculator](https://www.etsy.com/listing/4591926223): $9.99 USD, instant download (Excel & Google Sheets). Buy · Rehab · Rent · Refinance · Repeat
+- [Fix & Flip Profit Calculator](https://www.etsy.com/listing/4592563438): $9.99 USD, instant download (Excel & Google Sheets). Profit, ROI & 70% rule max offer
+- [Offer (MAO) Calculator](https://www.etsy.com/listing/4592563522): $9.99 USD, instant download (Excel & Google Sheets). ARV from comps · repairs · max offer
+- [Maintenance Log & CapEx Planner](https://www.etsy.com/listing/4593126643): $9.99 USD, instant download (Excel & Google Sheets). Track repairs · plan big-ticket reserves
+- [Landlord Bookkeeping Bundle](https://www.etsy.com/listing/4591323125): $24.99 USD, instant download (Excel & Google Sheets). 4 spreadsheets · save about 40%
+- [Investor Calculator Bundle](https://www.etsy.com/listing/4591928461): $24.99 USD, instant download (Excel & Google Sheets). Rentals · BRRRR · flips · offers
+- [Airbnb Host Spreadsheet](https://www.etsy.com/listing/4596691258): $12.99 USD, instant download (Excel & Google Sheets). Bookings, payouts, occupancy, ADR & net profit
 
 ## Optional
 
+- [Pricing (markdown)](https://golf4life27.github.io/pricing.md)
 - [Sitemap](https://golf4life27.github.io/sitemap.xml)
 - [RSS feed](https://golf4life27.github.io/feed.xml)

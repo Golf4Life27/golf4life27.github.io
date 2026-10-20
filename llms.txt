@@ -18,6 +18,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [Free Rental Cash Flow Calculator](https://golf4life27.github.io/free-rental-cash-flow-calculator/): online calculator + free .xlsx; cash flow, NOI, cap rate, cash-on-cash, DSCR, 1% rule
 - [Airbnb Profit Calculator](https://golf4life27.github.io/airbnb-profit-calculator/): Free Airbnb profit calculator: enter nightly rate, occupancy, fees and costs to see monthly net profit, break-even occupancy and cash-on-cash return.
 - [Prorated Rent Calculator](https://golf4life27.github.io/prorated-rent-calculator/): Free prorated rent calculator for move-in or move-out: see partial-month rent by actual days, 30-day month and 365-day year, plus the total due at move-in.
+- [Rent Increase Calculator](https://golf4life27.github.io/rent-increase-calculator/): Free rent increase calculator: turn a percent into the new monthly rent, or a new rent into a percent, and see the yearly cost and where rent lands after several years.
 
 ## Templates and prices
 

@@ -19,6 +19,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [Airbnb Profit Calculator](https://golf4life27.github.io/airbnb-profit-calculator/): Free Airbnb profit calculator: enter nightly rate, occupancy, fees and costs to see monthly net profit, break-even occupancy and cash-on-cash return.
 - [Prorated Rent Calculator](https://golf4life27.github.io/prorated-rent-calculator/): Free prorated rent calculator for move-in or move-out: see partial-month rent by actual days, 30-day month and 365-day year, plus the total due at move-in.
 - [Rent Increase Calculator](https://golf4life27.github.io/rent-increase-calculator/): Free rent increase calculator: turn a percent into the new monthly rent, or a new rent into a percent, and see the yearly cost and where rent lands after several years.
+- [Cap Rate Calculator](https://golf4life27.github.io/cap-rate-calculator/): Free cap rate calculator for rental property: build net operating income from rent, vacancy and expenses, get the cap rate on your price, and see what the property is worth at your target cap rate.
 
 ## Templates and prices
 

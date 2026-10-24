@@ -1,0 +1,24 @@
+# KeyLedger Templates: free landlord and real estate investor calculators
+
+Live site: https://golf4life27.github.io/  
+Free browser calculators and plain-English guides for landlords, BRRRR and fix-and-flip investors, and Airbnb hosts. No sign-up; everything runs in your browser.
+
+## Free calculators
+- [Free Rental Property Cash Flow Calculator (Online + Excel)](https://golf4life27.github.io/free-rental-cash-flow-calculator/) - Free rental property cash flow calculator: cash flow, cap rate, cash-on-cash, DSCR and the 1% rule, with vacancy and CapEx built in. Online or Excel.
+- [Airbnb Profit Calculator: Net Profit & Break-Even Occupancy](https://golf4life27.github.io/airbnb-profit-calculator/) - Free Airbnb profit calculator: enter nightly rate, occupancy, fees and costs to see monthly net profit, break-even occupancy and cash-on-cash return.
+- [Prorated Rent Calculator: Move-In & Move-Out (3 Methods)](https://golf4life27.github.io/prorated-rent-calculator/) - Free prorated rent calculator for move-in or move-out: see partial-month rent by actual days, 30-day month and 365-day year, plus the total due at move-in.
+- [Rent Increase Calculator: Percent, New Rent & Yearly Cost](https://golf4life27.github.io/rent-increase-calculator/) - Free rent increase calculator: turn a percent into the new monthly rent, or a new rent into a percent, and see the yearly cost and where rent lands after several years.
+- [Cap Rate Calculator: NOI, Cap Rate & Value at a Target Cap](https://golf4life27.github.io/cap-rate-calculator/) - Free cap rate calculator for rental property: build net operating income from rent, vacancy and expenses, get the cap rate on your price, and see what the property is worth at your target cap rate.
+- [Cash on Cash Return Calculator: Rental Cash Flow & Max Price](https://golf4life27.github.io/cash-on-cash-return-calculator/) - Free cash-on-cash return calculator for rental property: enter the price, loan, rent and expenses to get the mortgage payment, yearly cash flow, cash-on-cash return, return with principal paydown, and the most you can pay to hit your target return.
+- [DSCR Calculator: DSCR Loan Ratio, Max Loan & Rent Needed](https://golf4life27.github.io/dscr-calculator/) - Free DSCR calculator for rental property: enter the rent, loan, taxes and insurance to get the monthly PITIA, the lender-style DSCR (rent ÷ PITIA), the NOI-based DSCR, the rent you need, and the largest loan and price that still hit your target DSCR. Amortizing or interest-only.
+- [Security Deposit Deduction Calculator: Refund or Balance Owed](https://golf4life27.github.io/security-deposit-deduction-calculator/) - Free security deposit deduction calculator: add up unpaid rent, cleaning, repairs and other charges, include any deposit interest, and see the refund due or the balance the tenant still owes.
+
+## Guides
+- [How to Track Rental Income & Expenses for Schedule E](https://golf4life27.github.io/track-rental-income-expenses-schedule-e/) - A simple year-round system for tracking rental income and expenses by Schedule E line, so tax time takes an hour, not a weekend. Full category list inside.
+- [How to Calculate Rental Property Cash Flow (Example)](https://golf4life27.github.io/rental-property-cash-flow-calculation/) - Step-by-step rental property cash flow calculation with a worked example: vacancy, management, repairs, CapEx, taxes, insurance and the mortgage.
+- [BRRRR Calculator Walkthrough: Cash Back at Refinance](https://golf4life27.github.io/brrrr-calculator-walkthrough/) - A line-by-line BRRRR example: purchase, hard money, rehab, cash-out refinance, cash left in the deal and the max price for a full cash-out.
+- [70% Rule & MAO: How to Calculate a Fix and Flip Offer](https://golf4life27.github.io/70-percent-rule-mao-fix-and-flip/) - How the 70% rule works, how to calculate maximum allowable offer (MAO) from ARV and repairs, and why a full-cost flip budget beats the rule of thumb.
+- [How Much Should Landlords Save for CapEx? (Formula)](https://golf4life27.github.io/capex-reserves-rental-property/) - Percent-of-rent rules vs. an itemized CapEx reserve: how much landlords should set aside each month for roofs, HVAC and water heaters, with an example.
+- [Airbnb Host Spreadsheet: Track Income, Expenses & Occupancy](https://golf4life27.github.io/airbnb-host-bookkeeping-spreadsheet/) - A simple Airbnb host bookkeeping system: log bookings and expenses, then see occupancy, ADR, RevPAR and net profit by month in Excel or Google Sheets.
+
+Spreadsheet versions of these tools: https://www.etsy.com/shop/KeyLedgerTemplates

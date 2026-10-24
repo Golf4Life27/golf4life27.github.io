@@ -22,6 +22,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [Cap Rate Calculator](https://golf4life27.github.io/cap-rate-calculator/): Free cap rate calculator for rental property: build net operating income from rent, vacancy and expenses, get the cap rate on your price, and see what the property is worth at your target cap rate.
 - [Cash-on-Cash Return Calculator](https://golf4life27.github.io/cash-on-cash-return-calculator/): Free cash-on-cash return calculator for rental property: enter the price, loan, rent and expenses to get the mortgage payment, yearly cash flow, cash-on-cash return, return with principal paydown, and the most you can pay to hit your target return.
 - [DSCR Calculator](https://golf4life27.github.io/dscr-calculator/): Free DSCR calculator for rental property: enter the rent, loan, taxes and insurance to get the monthly PITIA, the lender-style DSCR (rent ÷ PITIA), the NOI-based DSCR, the rent you need, and the largest loan and price that still hit your target DSCR. Amortizing or interest-only.
+- [Security Deposit Deduction Calculator](https://golf4life27.github.io/security-deposit-deduction-calculator/): Free security deposit deduction calculator: add up unpaid rent, cleaning, repairs and other charges, include any deposit interest, and see the refund due or the balance the tenant still owes.
 
 ## Templates and prices
 

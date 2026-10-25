@@ -23,6 +23,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [Cash-on-Cash Return Calculator](https://golf4life27.github.io/cash-on-cash-return-calculator/): Free cash-on-cash return calculator for rental property: enter the price, loan, rent and expenses to get the mortgage payment, yearly cash flow, cash-on-cash return, return with principal paydown, and the most you can pay to hit your target return.
 - [DSCR Calculator](https://golf4life27.github.io/dscr-calculator/): Free DSCR calculator for rental property: enter the rent, loan, taxes and insurance to get the monthly PITIA, the lender-style DSCR (rent ÷ PITIA), the NOI-based DSCR, the rent you need, and the largest loan and price that still hit your target DSCR. Amortizing or interest-only.
 - [Security Deposit Deduction Calculator](https://golf4life27.github.io/security-deposit-deduction-calculator/): Free security deposit deduction calculator: add up unpaid rent, cleaning, repairs and other charges, include any deposit interest, and see the refund due or the balance the tenant still owes.
+- [Fix and Flip Calculator](https://golf4life27.github.io/fix-and-flip-profit-calculator/): Free fix and flip calculator: enter the purchase price, rehab, ARV, hard money loan, holding and selling costs to get total project cost, net profit, return on your cash, annualized ROI, break-even sale price, the 70% rule offer, and the most you can pay to hit your profit target.
 
 ## Templates and prices
 

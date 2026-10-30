@@ -28,6 +28,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [Airbnb vs Long-Term Rental Calculator](https://golf4life27.github.io/airbnb-vs-long-term-rental-calculator/): Free Airbnb vs long-term rental calculator: run one property both ways to compare monthly net profit, cash-on-cash return, the occupancy the Airbnb needs just to match a 12-month lease, the rent that ties it, and how long the furniture takes to pay back.
 - [Rental Property Depreciation Calculator](https://golf4life27.github.io/rental-property-depreciation-calculator/): Free rental property depreciation calculator: split land from building, get the depreciable basis, the yearly 27.5-year write-off, the first-year amount under the mid-month rule, the estimated tax it saves, total depreciation after the years you hold, and a depreciation recapture estimate at sale.
 - [1% Rule Calculator](https://golf4life27.github.io/one-percent-rule-calculator/): Free 1% rule calculator for rental property: see the rent-to-price ratio on your all-in cost, the rent needed to pass the 1% (or 2%) rule, the max price that passes, the gross rent multiplier, and a quick cash flow check that shows the ratio your loan actually needs to break even.
+- [Rental Yield Calculator](https://golf4life27.github.io/rental-yield-calculator/): Free rental yield calculator: enter the price, buying costs, rent, vacancy and yearly running costs to see gross yield, net yield on your total cost, a simple after-tax yield, the rent needed to hit your target net yield and the most you can pay for it.
 
 ## Templates and prices
 

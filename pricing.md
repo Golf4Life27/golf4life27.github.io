@@ -19,4 +19,4 @@ One-time purchase, instant digital download on Etsy. No subscription. Files work
 - [Investor Calculator Bundle](https://www.etsy.com/listing/4591928461): $24.99 USD, Rentals · BRRRR · flips · offers
 - [Airbnb Host Spreadsheet](https://www.etsy.com/listing/4596691258): $12.99 USD, Bookings, payouts, occupancy, ADR & net profit
 
-Prices last synced from Etsy: 2026-10-29. Etsy may show a sale price.
+Prices last synced from Etsy: 2026-10-30. Etsy may show a sale price.

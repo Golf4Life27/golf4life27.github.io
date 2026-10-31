@@ -12,6 +12,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [The 70% Rule and MAO: How to Calculate a Max Offer on a Fix and Flip](https://golf4life27.github.io/70-percent-rule-mao-fix-and-flip/): How the 70% rule works, how to calculate maximum allowable offer (MAO) from ARV and repairs, and why a full-cost flip budget plus a stress test beats the rule of thumb.
 - [How Much Should Landlords Save for Repairs and CapEx? A Simple Reserve Formula](https://golf4life27.github.io/capex-reserves-rental-property/): Percent-of-rent rules vs. an itemized CapEx reserve: how to calculate how much to set aside each month for roofs, HVAC, water heaters and more, with a worked example.
 - [Airbnb Host Bookkeeping: How to Track Income, Expenses, Occupancy and Payouts in One Spreadsheet](https://golf4life27.github.io/airbnb-host-bookkeeping-spreadsheet/): A simple Airbnb host bookkeeping system: log every booking and expense, then see occupancy, ADR, RevPAR and net profit by month. Built for short-term rental hosts on Excel or Google Sheets.
+- [Printable Rental Property Record Book: What to Keep in a Landlord Binder (and Why)](https://golf4life27.github.io/printable-rental-property-record-book/): What belongs in a printable landlord binder: rent logs, income and expense ledgers, deposits, maintenance, mileage and a Schedule E year-end summary. For small landlords who prefer paper.
 
 ## Free tools
 

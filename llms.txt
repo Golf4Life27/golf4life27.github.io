@@ -35,6 +35,7 @@ Shop: https://www.etsy.com/shop/KeyLedgerTemplates
 - [1031 Exchange Calculator](https://golf4life27.github.io/1031-exchange-calculator/): Free 1031 exchange calculator: see your realized gain, the cash and mortgage boot that gets taxed, the gain and tax you defer, the basis of the replacement property, the price and equity needed to defer it all, and your 45-day and 180-day deadline dates.
 - [Rental Property Expense Calculator](https://golf4life27.github.io/rental-property-expense-calculator/): Free rental property expense calculator: enter rent, property tax, insurance, HOA, repairs, capex reserve, management and vacancy to see yearly and monthly running costs, your expense ratio against the 50% rule, net operating income, cap rate and the break-even rent.
 - [Gross Rent Multiplier Calculator](https://golf4life27.github.io/gross-rent-multiplier-calculator/): Free gross rent multiplier (GRM) calculator: enter the price and the rent to get the GRM, the value at a target GRM, the rent or price needed to hit it, the matching rent-to-price ratio and a rough cap rate once you add an expense ratio.
+- [Airbnb Occupancy Rate Calculator](https://golf4life27.github.io/airbnb-occupancy-calculator/): Free Airbnb occupancy rate calculator: enter nights available and booked, nightly rate, cleaning, platform fee and fixed costs to get your occupancy, break-even occupancy, break-even nightly rate, revenue per available night and monthly profit.
 
 ## Templates and prices
 
